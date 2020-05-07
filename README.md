@@ -31,3 +31,7 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 [1] https://paip2020.grand-challenge.org/
 
 [2] Alexander J, Watanabe T, Wu TT, Rashid A, Li S, Hamilton SR. Histopathological identification of colon cancer with microsatellite instability. Am J Pathol. 2001;158(2):527‐535. doi:10.1016/S0002-9440(10)63994-6
+
+[3] Hou L, Samaras D, Kurc TM, Gao Y, Davis JE, Saltz JH, Patch-based Convolutional Neural Network for Whole Slide Tissue Image Classification. Proc IEEE Comput Soc Conf Comput Vis Pattern Recognit. 2016; 2016:2424-2433. [doi:10.1109/CVPR.2016.266](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf) 
+
+
