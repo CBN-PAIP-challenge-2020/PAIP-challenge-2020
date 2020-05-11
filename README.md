@@ -52,17 +52,17 @@ results source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRm
 
 1. Focus on MSI-H detection only (-> how many makers are detected)
 
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850324/bin/jh0212499001.jpg)
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs41241-017-0020-1/MediaObjects/41241_2017_20_Fig1_HTML.gif?as=webp)
 
 
-> Histopathology of medullary carcinoma of the colorectum, a tumor-type characteristic of MSI-H. The malignant cells are large with **abundant pink cytoplasm** and **vesicular nuclei with prominent nucleoli**. Numerous lymphocytes are evident in the malignant epithelium. [2]
+> Three major pathways leading to colorectal cancers. (1) Conventional adenoma-carcinoma sequence with oncogene (e.g. KRAS) activation and tumor suppressor (e.g. APC, SMAD4 and TP53) inactivation, resulting in microsatellite stable (MSS) cancers; (2) Microsatellite instability (MSI) pathway with mismatch repair (MMR) protein deficiency in patients with Lynch syndrome, resulting in MSI-high (MSI-H) cancers; (3) Serrated pathway with CpG island methylation phenotype, resulting in either MSI-H cancers if methylation occurs in MLH1 promoter or MSS cancers if methylation occurs in tumor suppressor genes. HGD: high-grade dysplasia; LGD: low-grade dysplasia; SSA: sessile serrated adenoma
 
 2. Focus on tumor masses segmentation only
 
 ## References
 [1] https://paip2020.grand-challenge.org/
 
-[2] Alexander J, Watanabe T, Wu TT, Rashid A, Li S, Hamilton SR. Histopathological identification of colon cancer with microsatellite instability. Am J Pathol. 2001;158(2):527‐535. doi:10.1016/S0002-9440(10)63994-6
+[2] Gonzalez, R.S., Washington, K. & Shi, C. Current applications of molecular pathology in colorectal carcinoma. Appl Cancer Res 37, 13 (2017). [doi:10.1186/s41241-017-0020-1](https://doi.org/10.1186/s41241-017-0020-1)
 
 [3] Hou L, Samaras D, Kurc TM, Gao Y, Davis JE, Saltz JH, Patch-based Convolutional Neural Network for Whole Slide Tissue Image Classification. Proc IEEE Comput Soc Conf Comput Vis Pattern Recognit. 2016; 2016:2424-2433. [doi:10.1109/CVPR.2016.266](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf) 
 
