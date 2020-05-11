@@ -53,7 +53,7 @@ results source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRm
 
 1. Focus on MSI-H detection only (-> how many makers are detected)
 
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850324/bin/jh0212499001.jpg)
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850324/bin/jh0212499001.jpg?raw=true)
 
 > Histopathology of medullary carcinoma of the colorectum, a tumor-type characteristic of MSI-H. The malignant cells are large with abundant pink cytoplasm and vesicular nuclei with prominent nucleoli. Numerous lymphocytes are evident in the malignant epithelium.
 
