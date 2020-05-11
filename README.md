@@ -18,7 +18,7 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 
 ## PAIP2019 Results
 - Task 1 : Tumor Segmentation
-'''html
+/***
  <tbody><tr style="height: 17.4pt;">
   <td class="xl66" style="text-align: left; height: 17.4pt; width: 53pt;"><b>Rank</b></td>
   <td class="xl67" style="text-align: left; width: 232pt;"><b>Team Name</b></td>
@@ -102,10 +102,10 @@ Wang</span></p></td>
   <td class="xl70" style="width: 227pt;">LRDE</td>
   <td class="xl71" style="width: 208pt;">0.529938</td>
  </tr></tbody></table>
- '''
+***/
  
 - Task 2 : Tumor Burden Estimation
-'''html
+/***
 <tbody><tr style="height: 17.4pt;">
   <td class="xl66" style="height: 17.4pt; width: 34pt;"><b>Rank</b></td>
   <td class="xl67" style="width: 98pt;"><b>Team Name</b></td>
@@ -191,7 +191,7 @@ Wang</span></p></td>
   of Maine, Tianjin Chengjian University</td>
   <td class="xl72" style="width: 53pt;">0.43351</td>
  </tr></tbody></table>
- '''
+***/
    
 
 ## Strategy
