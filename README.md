@@ -18,7 +18,7 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 
 ## PAIP2019 Results
 - Task 1 : Tumor Segmentation
-/***
+
 |__Rank__|__Team Name__|__Affiliation__|__Score__|
 |:------:|:-----------:|:-------------:|:-------:|
 |1       |Hyun Jung    |Frederick National Laboratory for Cancer Research|0.788987|
@@ -31,10 +31,10 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 |8       |Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.63132|
 |9       |Ching-Wei Wang |AI Explore 	|0.606536|
 |10      |Team LRDE	|LRDE	|0.529938|
-***/
+
  
 - Task 2 : Tumor Burden Estimation
-/***
+
 |__Rank__|__Team Name__|__Affiliation__|__Score__|
 |:------:|:-----------:|:-------------:|:-------:|
 |1|Hyun Jung|Frederick National Laboratory for Cancer Research 	|0.752826
@@ -47,7 +47,6 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 |8|Team Sig-IPath	|12sigma technology	|0.462489
 |9|Pingjun Chen	|University of Florida	|0.43939
 |10|Team Blackbear	|University of Maine, Tianjin Chengjian University	|0.43351
-***/
    
 
 ## Strategy
