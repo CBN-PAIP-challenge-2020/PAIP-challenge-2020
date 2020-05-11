@@ -20,7 +20,7 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 - Task 1 : Tumor Segmentation
 /***
 |__Rank__|__Team Name__|__Affiliation__|__Score__|
-|------------------------------------------------|
+|:------:|:-----------:|:-------------:|:-------:|
 |1       |Hyun Jung    |Frederick National Laboratory for Cancer Research|0.788987|
 |2       |Team Sen	    |Sichuan University|0.777215|
 |3       |Team MIRL-IITM	|Indian Institute of Technology Madras	|0.750333|
@@ -36,17 +36,17 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 - Task 2 : Tumor Burden Estimation
 /***
 |__Rank__|__Team Name__|__Affiliation__|__Score__|
-|------------------------------------------------|
-|1	      |Hyun Jung 	|Frederick National Laboratory for Cancer Research 	|0.752826
-|2	      |Team MIRL-IITM	|Indian Institute of Technology Madras	|0.633702
-|3	      |Team QuIIL	|Sejong University	|0.633029
-|4	      |Team Damo AIC	|Alibaba	|0.619991
-|5	      |Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.596908
-|6	      |Team CUHK-Med	|The Chinese University of Hong Kong	|0.588317
-|7	      |Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	0.577394
-|8	      |Team Sig-IPath	|12sigma technology	|0.462489
-|9	      |Pingjun Chen	|University of Florida	|0.43939
-|10      |Team Blackbear	|University of Maine, Tianjin Chengjian University	|0.43351
+|:------:|:-----------:|:-------------:|:-------:|
+|1|Hyun Jung|Frederick National Laboratory for Cancer Research 	|0.752826
+|2|Team MIRL-IITM	|Indian Institute of Technology Madras	|0.633702
+|3|Team QuIIL	|Sejong University	|0.633029
+|4|Team Damo AIC	|Alibaba	|0.619991
+|5|Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.596908
+|6|Team CUHK-Med	|The Chinese University of Hong Kong	|0.588317
+|7|Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	0.577394
+|8|Team Sig-IPath	|12sigma technology	|0.462489
+|9|Pingjun Chen	|University of Florida	|0.43939
+|10|Team Blackbear	|University of Maine, Tianjin Chengjian University	|0.43351
 ***/
    
 
