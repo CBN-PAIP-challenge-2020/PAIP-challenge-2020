@@ -22,7 +22,7 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 
 |__Rank__|__Team Name__|__Affiliation__|__Score__|__Model__|__Patch-Wise__|__Pixel_Wise__|__Ensemble__|
 |:------:|:-----------:|:-------------:|:-------:|:-------:|:------------:|:------------:|:----------:|
-|1       |Hyun Jung    |Frederick National Laboratory for Cancer Research|0.788987|EfficientNet-B4, UNet++| |O|O|
+|1       |Hyun Jung    |Frederick National Laboratory for Cancer Research|0.788987|EfficientNet-B4, UNet++|O|O|O|
 |2       |Team Sen	    |Sichuan University|0.777215|SE-Resnext101, U-Net|O|O|O|
 |3       |Team MIRL-IITM	|Indian Institute of Technology Madras	|0.750333|DensNet-121, InceptionResNetV2, DeeplabV3plus| |O|O|
 |4       |Team Damo AIC	|Alibaba - alicloud 	|0.671778|Resnet101, U-Net| |O|O|
