@@ -63,6 +63,8 @@ results source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRm
 
 > [Reference Publication[4]](https://www.nature.com/articles/s41591-019-0462-y)
 
+> [More Details](https://docs.google.com/presentation/d/1aY4T2eI27-ScpZvG5AghM0yntjFSYMPdRwOtR5nqp4Y/edit?usp=sharing)
+
 2. Focus on tumor masses segmentation only
 
 > [Keynote Medical Summary](https://drive.google.com/file/d/1b-ZcBFJBYG8knyZ4VvBGXIijApxJLgrA/view)
