@@ -17,6 +17,7 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 **Notification**  : The **MSI-High(MSI-H) classification is the main task**, which has first priority consideration in the challenge evaluation, **while segmentation is a mandatory task for this challenge.** Therefore, all participants who want to make **a submission need to enclose the result of the MSI-H prediction and segmentation of the whole tumor area.**
 
 ## PAIP2019 Results
+- **[Top Ranked Team's Presentation Material](https://drive.google.com/file/d/1NWJdZJFHajHfod5fgO7WnoRqYuQGN_tp/view)**
 - Task 1 : Tumor Segmentation
 
 |__Rank__|__Team Name__|__Affiliation__|__Score__|__Model__|__Patch-Wise__|__Pixel_Wise__|__Ensemble__|
@@ -37,7 +38,7 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 
 |__Rank__|__Team Name__|__Affiliation__|__Score__|__Model__|__Patch-Wise__|__Pixel_Wise__|__Ensemble__|
 |:------:|:-----------:|:-------------:|:-------:|:-------:|:------------:|:------------:|:----------:|
-|1|Hyun Jung|Frederick National Laboratory for Cancer Research 	|0.752826|EfficientNet-B4, UNet++| |O|O|
+|1|Hyun Jung|Frederick National Laboratory for Cancer Research 	|0.752826|EfficientNet-B4, UNet++|O|O|O|
 |2|Team MIRL-IITM	|Indian Institute of Technology Madras	|0.633702|SE-Resnext101, U-Net|O|O|O|
 |3|Team QuIIL	|Sejong University	|0.633029|DensNet-121, InceptionResNetV2, DeeplabV3plus| |O|O|
 |4|Team Damo AIC	|Alibaba	|0.619991|Resnet101, U-Net| |O|O|
@@ -54,10 +55,14 @@ results source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRm
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs41241-017-0020-1/MediaObjects/41241_2017_20_Fig1_HTML.gif?as=webp)
 
+> Three major pathways leading to colorectal cancers. (1) Conventional adenoma-carcinoma sequence with oncogene (e.g. KRAS) activation and tumor suppressor (e.g. APC, SMAD4 and TP53) inactivation, resulting in microsatellite stable (MSS) cancers; (2) Microsatellite instability (MSI) pathway with mismatch repair (MMR) protein deficiency in patients with Lynch syndrome, resulting in MSI-high (MSI-H) cancers; (3) Serrated pathway with CpG island methylation phenotype, resulting in either MSI-H cancers if methylation occurs in MLH1 promoter or MSS cancers if methylation occurs in tumor suppressor genes. HGD: high-grade dysplasia; LGD: low-grade dysplasia; SSA: sessile serrated adenoma [2]
 
-> Three major pathways leading to colorectal cancers. (1) Conventional adenoma-carcinoma sequence with oncogene (e.g. KRAS) activation and tumor suppressor (e.g. APC, SMAD4 and TP53) inactivation, resulting in microsatellite stable (MSS) cancers; (2) Microsatellite instability (MSI) pathway with mismatch repair (MMR) protein deficiency in patients with Lynch syndrome, resulting in MSI-high (MSI-H) cancers; (3) Serrated pathway with CpG island methylation phenotype, resulting in either MSI-H cancers if methylation occurs in MLH1 promoter or MSS cancers if methylation occurs in tumor suppressor genes. HGD: high-grade dysplasia; LGD: low-grade dysplasia; SSA: sessile serrated adenoma
+> [Reference Publication[4]](https://www.nature.com/articles/s41591-019-0462-y)
 
 2. Focus on tumor masses segmentation only
+
+> [Keynote Medical Summary](https://drive.google.com/file/d/1b-ZcBFJBYG8knyZ4VvBGXIijApxJLgrA/view)
+> [Keynote Multi-Scale Multi-Encoder](https://drive.google.com/file/d/1mFhivlYfGEjM5CTbX7qHlDyXHQ3JxaP3/view)
 
 ## References
 [1] https://paip2020.grand-challenge.org/
@@ -66,4 +71,4 @@ results source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRm
 
 [3] Hou L, Samaras D, Kurc TM, Gao Y, Davis JE, Saltz JH, Patch-based Convolutional Neural Network for Whole Slide Tissue Image Classification. Proc IEEE Comput Soc Conf Comput Vis Pattern Recognit. 2016; 2016:2424-2433. [doi:10.1109/CVPR.2016.266](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf) 
 
-
+[4] Kather, J.N., Pearson, A.T., Halama, N. et al. Deep learning can predict microsatellite instability directly from histology in gastrointestinal cancer. Nat Med 25, 1054–1056 (2019). [doi:10.1038/s41591-019-0462-y](https://doi.org/10.1038/s41591-019-0462-y)
