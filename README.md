@@ -19,37 +19,35 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 ## PAIP2019 Results
 - Task 1 : Tumor Segmentation
 
-|__Rank__|__Team Name__|__Affiliation__|__Score__|
-|:------:|:-----------:|:-------------:|:-------:|
-|1       |Hyun Jung    |Frederick National Laboratory for Cancer Research|0.788987|
-|2       |Team Sen	    |Sichuan University|0.777215|
-|3       |Team MIRL-IITM	|Indian Institute of Technology Madras	|0.750333|
-|4       |Team Damo AIC	|Alibaba - alicloud 	|0.671778|
-|5       |Team QuIIL	|Sejong University	|0.665227|
-|6       |Team CUHK-Med	|The Chinese University of Hong Kong	|0.662454|
-|7       |Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	|0.65962|
-|8       |Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.63132|
-|9       |Ching-Wei Wang |AI Explore 	|0.606536|
-|10      |Team LRDE	|LRDE	|0.529938|
+|__Rank__|__Team Name__|__Affiliation__|__Score__|__Model__|__Patch-Wise__|__Pixel_Wise__|__Ensemble__|
+|:------:|:-----------:|:-------------:|:-------:|:-------:|:------------:|:------------:|:----------:|
+|1       |Hyun Jung    |Frederick National Laboratory for Cancer Research|0.788987|EfficientNet-B4, UNet++| |O|O|
+|2       |Team Sen	    |Sichuan University|0.777215|SE-Resnext101, U-Net|O|O|O|
+|3       |Team MIRL-IITM	|Indian Institute of Technology Madras	|0.750333|DensNet-121, InceptionResNetV2, DeeplabV3plus| |O|O|
+|4       |Team Damo AIC	|Alibaba - alicloud 	|0.671778|Resnet101, U-Net| |O|O|
+|5       |Team QuIIL	|Sejong University	|0.665227|Densely connected convolutional block, U-net| | |O|
+|6       |Team CUHK-Med	|The Chinese University of Hong Kong	|0.662454|msYI-Net(ResNet18-U-Net)| |O|O|
+|7       |Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	|0.65962|SegNet| |O|O|
+|8       |Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.63132|-|-|-|-|
+|9       |Ching-Wei Wang |AI Explore 	|0.606536|Custom VGG16(Segmentation)| |O| |
+|10      |Team LRDE	|LRDE	|0.529938|Unet512, Unet2048| |O| |
 
  
 - Task 2 : Tumor Burden Estimation
 
-|__Rank__|__Team Name__|__Affiliation__|__Score__|
-|:------:|:-----------:|:-------------:|:-------:|
-|1|Hyun Jung|Frederick National Laboratory for Cancer Research 	|0.752826
-|2|Team MIRL-IITM	|Indian Institute of Technology Madras	|0.633702
-|3|Team QuIIL	|Sejong University	|0.633029
-|4|Team Damo AIC	|Alibaba	|0.619991
-|5|Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.596908
-|6|Team CUHK-Med	|The Chinese University of Hong Kong	|0.588317
-|7|Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	0.577394
-|8|Team Sig-IPath	|12sigma technology	|0.462489
-|9|Pingjun Chen	|University of Florida	|0.43939
+|__Rank__|__Team Name__|__Affiliation__|__Score__|__Model__|__Patch-Wise__|__Pixel_Wise__|__Ensemble__|
+|:------:|:-----------:|:-------------:|:-------:|:-------:|:------------:|:------------:|:----------:|
+|1|Hyun Jung|Frederick National Laboratory for Cancer Research 	|0.752826|EfficientNet-B4, UNet++| |O|O|
+|2|Team MIRL-IITM	|Indian Institute of Technology Madras	|0.633702|SE-Resnext101, U-Net|O|O|O|
+|3|Team QuIIL	|Sejong University	|0.633029|DensNet-121, InceptionResNetV2, DeeplabV3plus| |O|O|
+|4|Team Damo AIC	|Alibaba	|0.619991|Resnet101, U-Net| |O|O|
+|5|Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.596908|-|-|-|-|
+|6|Team CUHK-Med	|The Chinese University of Hong Kong	|0.588317|msYI-Net(ResNet18-U-Net)| |O|O|
+|7|Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	|0.577394|SegNet| |O|O|
+|8|Team Sig-IPath	|12sigma technology	|0.462489|-|-|-|-|
+|9|Pingjun Chen	|University of Florida	|0.43939|-|-|-|-|
 |10|Team Blackbear	|University of Maine, Tianjin Chengjian University	|0.43351
-   
-
-## Strategy
+source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRmcVF1lDe1/view)
 
 1. Focus on MSI-H detection only (-> how many makers are detected)
 
