@@ -53,6 +53,10 @@ results source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRm
 
 1. Focus on MSI-H detection only (-> how many makers are detected)
 
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850324/bin/jh0212499001.jpg)
+
+> Histopathology of medullary carcinoma of the colorectum, a tumor-type characteristic of MSI-H. The malignant cells are large with abundant pink cytoplasm and vesicular nuclei with prominent nucleoli. Numerous lymphocytes are evident in the malignant epithelium.
+
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs41241-017-0020-1/MediaObjects/41241_2017_20_Fig1_HTML.gif?as=webp)
 
 > Three major pathways leading to colorectal cancers. (1) Conventional adenoma-carcinoma sequence with oncogene (e.g. KRAS) activation and tumor suppressor (e.g. APC, SMAD4 and TP53) inactivation, resulting in microsatellite stable (MSS) cancers; (2) Microsatellite instability (MSI) pathway with mismatch repair (MMR) protein deficiency in patients with Lynch syndrome, resulting in MSI-high (MSI-H) cancers; (3) Serrated pathway with CpG island methylation phenotype, resulting in either MSI-H cancers if methylation occurs in MLH1 promoter or MSS cancers if methylation occurs in tumor suppressor genes. HGD: high-grade dysplasia; LGD: low-grade dysplasia; SSA: sessile serrated adenoma [2]
