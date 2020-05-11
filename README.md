@@ -47,11 +47,12 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 |8|Team Sig-IPath	|12sigma technology	|0.462489|-|-|-|-|
 |9|Pingjun Chen	|University of Florida	|0.43939|-|-|-|-|
 |10|Team Blackbear	|University of Maine, Tianjin Chengjian University	|0.43351
-source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRmcVF1lDe1/view)
+
+results source : [url](https://drive.google.com/file/d/1ierVsP82cPBGsi5djqoEHtRmcVF1lDe1/view)
 
 1. Focus on MSI-H detection only (-> how many makers are detected)
 
-![MSI-H](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850324/bin/jh0212499001.jpg?raw=true)
+![MSI-H](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850324/bin/jh0212499001.jpg?raw=true"MSI-H")
 
 
 > Histopathology of medullary carcinoma of the colorectum, a tumor-type characteristic of MSI-H. The malignant cells are large with **abundant pink cytoplasm** and **vesicular nuclei with prominent nucleoli**. Numerous lymphocytes are evident in the malignant epithelium. [2]
