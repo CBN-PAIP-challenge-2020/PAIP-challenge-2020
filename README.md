@@ -19,178 +19,34 @@ MSI-H in CRCs is significantly associated with a better prognosis but does not s
 ## PAIP2019 Results
 - Task 1 : Tumor Segmentation
 /***
- <tbody><tr style="height: 17.4pt;">
-  <td class="xl66" style="text-align: left; height: 17.4pt; width: 53pt;"><b>Rank</b></td>
-  <td class="xl67" style="text-align: left; width: 232pt;"><b>Team Name</b></td>
-  <td class="xl67" style="text-align: left; width: 227pt;"><b>Affiliation</b></td>
-  <td class="xl68" style="text-align: left; width: 208pt;"><b>Score</b></td>
- </tr>
- <tr style="height: 34.8pt;">
-  <td class="xl69" style="height: 34.8pt; width: 53pt;">1</td>
-  <td class="xl70" style="width: 232pt;">Hyun
-  Jung&nbsp;</td>
-  <td class="xl70" style="width: 227pt;">Frederick
-  National Laboratory for Cancer Research&nbsp;</td>
-  <td class="xl71" style="width: 208pt;">0.788987</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl69" style="height: 17.4pt; width: 53pt;">2</td>
-  <td class="xl70" style="width: 232pt;">Team Sen</td>
-  <td class="xl70" style="width: 227pt;">Sichuan
-  University</td>
-  <td class="xl71" style="width: 208pt;">0.777215</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl72" style="height: 17.4pt; width: 53pt;">3</td>
-  <td class="xl73" style="width: 232pt;">Team
-  MIRL-IITM</td>
-  <td class="xl73" style="width: 227pt;">Indian
-  Institute of Technology Madras</td>
-  <td class="xl74" style="width: 208pt;">0.750333</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl75" style="height: 17.4pt; width: 53pt;">4</td>
-  <td class="xl73" style="width: 232pt;">Team
-  Damo AIC</td>
-  <td class="xl73" style="width: 227pt;">Alibaba
-  - alicloud&nbsp;</td>
-  <td class="xl74" style="width: 208pt;">0.671778</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl75" style="height: 17.4pt; width: 53pt;">5</td>
-  <td class="xl73" style="width: 232pt;">Team
-  QuIIL</td>
-  <td class="xl73" style="width: 227pt;">Sejong
-  University</td>
-  <td class="xl74" style="width: 208pt;">0.665227</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl75" style="height: 17.4pt; width: 53pt;">6</td>
-  <td class="xl73" style="width: 232pt;">Team
-  CUHK-Med</td>
-  <td class="xl73" style="width: 227pt;">The
-  Chinese University of Hong Kong</td>
-  <td class="xl74" style="width: 208pt;">0.662454</td>
- </tr>
- <tr style="height: 34.8pt;">
-  <td class="xl75" style="height: 34.8pt; width: 53pt;">7</td>
-  <td class="xl73" style="width: 232pt;">Team
-  DAISYlab@UKE</td>
-  <td class="xl73" style="width: 227pt;">University
-  Medical Center Hamburg-Eppendorf (UKE)</td>
-  <td class="xl74" style="width: 208pt;">0.65962</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl75" style="height: 17.4pt; width: 53pt;">8</td>
-  <td class="xl73" style="width: 232pt;">Team
-  COSYPath</td>
-  <td class="xl73" style="width: 227pt;">Icahn
-  School of Medicine at Mount Sinai</td>
-  <td class="xl74" style="width: 208pt;">0.63132</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl76" style="height: 17.4pt; width: 53pt;">9</td>
-  <td class="xl77" style="width: 232pt;"><p><span style="">Ching-Wei
-Wang</span></p></td>
-  <td class="xl77" style="width: 227pt;">AI Explore&nbsp;</td>
-  <td class="xl78" style="width: 208pt;">0.606536</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl72" style="height: 17.4pt; width: 53pt;">10</td>
-  <td class="xl70" style="width: 232pt;">Team
-  LRDE</td>
-  <td class="xl70" style="width: 227pt;">LRDE</td>
-  <td class="xl71" style="width: 208pt;">0.529938</td>
- </tr></tbody></table>
+|__Rank__|__Team Name__|__Affiliation__|__Score__|
+|------------------------------------------------|
+|1       |Hyun Jung    |Frederick National Laboratory for Cancer Research|0.788987|
+|2       |Team Sen	    |Sichuan University|0.777215|
+|3       |Team MIRL-IITM	|Indian Institute of Technology Madras	|0.750333|
+|4       |Team Damo AIC	|Alibaba - alicloud 	|0.671778|
+|5       |Team QuIIL	|Sejong University	|0.665227|
+|6       |Team CUHK-Med	|The Chinese University of Hong Kong	|0.662454|
+|7       |Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	|0.65962|
+|8       |Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.63132|
+|9       |Ching-Wei Wang |AI Explore 	|0.606536|
+|10      |Team LRDE	|LRDE	|0.529938|
 ***/
  
 - Task 2 : Tumor Burden Estimation
 /***
-<tbody><tr style="height: 17.4pt;">
-  <td class="xl66" style="height: 17.4pt; width: 34pt;"><b>Rank</b></td>
-  <td class="xl67" style="width: 98pt;"><b>Team Name</b></td>
-  <td class="xl67" style="width: 271pt;"><b>Affiliation</b></td>
-  <td class="xl68" style="width: 53pt;"><b>Score</b></td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl74" style="height: 17.4pt; width: 34pt;">1</td>
-  <td class="xl69" style="width: 98pt;">Hyun
-  Jung&nbsp;</td>
-  <td class="xl69" style="width: 271pt;">Frederick
-  National Laboratory for Cancer Research&nbsp;</td>
-  <td class="xl72" style="width: 53pt;">0.752826</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl74" style="height: 17.4pt; width: 34pt;">2</td>
-  <td class="xl71" style="width: 98pt;">Team
-  MIRL-IITM</td>
-  <td class="xl71" style="width: 271pt;">Indian
-  Institute of Technology Madras</td>
-  <td class="xl72" style="width: 53pt;">0.633702</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl73" style="height: 17.4pt; width: 34pt;">3</td>
-  <td class="xl71" style="width: 98pt;">Team
-  QuIIL</td>
-  <td class="xl71" style="width: 271pt;">Sejong
-  University</td>
-  <td class="xl72" style="width: 53pt;">0.633029</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl73" style="height: 17.4pt; width: 34pt;">4</td>
-  <td class="xl71" style="width: 98pt;">Team Damo
-  AIC</td>
-  <td class="xl71" style="width: 271pt;">Alibaba</td>
-  <td class="xl72" style="width: 53pt;">0.619991</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl73" style="height: 17.4pt; width: 34pt;">5</td>
-  <td class="xl71" style="width: 98pt;">Team
-  COSYPath</td>
-  <td class="xl71" style="width: 271pt;">Icahn
-  School of Medicine at Mount Sinai</td>
-  <td class="xl72" style="width: 53pt;">0.596908</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl73" style="height: 17.4pt; width: 34pt;">6</td>
-  <td class="xl71" style="width: 98pt;">Team
-  CUHK-Med</td>
-  <td class="xl71" style="width: 271pt;">The
-  Chinese University of Hong Kong</td>
-  <td class="xl72" style="width: 53pt;">0.588317</td>
- </tr>
- <tr style="height: 34.8pt;">
-  <td class="xl73" style="height: 34.8pt; width: 34pt;">7</td>
-  <td class="xl71" style="width: 98pt;">Team
-  DAISYlab@UKE</td>
-  <td class="xl71" style="width: 271pt;">University
-  Medical Center Hamburg-Eppendorf (UKE)</td>
-  <td class="xl72" style="width: 53pt;">0.577394</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl73" style="height: 17.4pt; width: 34pt;">8</td>
-  <td class="xl71" style="width: 98pt;">Team
-  Sig-IPath</td>
-  <td class="xl69" style="width: 271pt;">12sigma
-  technology</td>
-  <td class="xl72" style="width: 53pt;">0.462489</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl73" style="height: 17.4pt; width: 34pt;">9</td>
-  <td class="xl71" style="width: 98pt;">Pingjun
-  Chen</td>
-  <td class="xl71" style="width: 271pt;">University
-  of Florida</td>
-  <td class="xl72" style="width: 53pt;">0.43939</td>
- </tr>
- <tr style="height: 17.4pt;">
-  <td class="xl73" style="height: 17.4pt; width: 34pt;">10</td>
-  <td class="xl71" style="width: 98pt;">Team
-  Blackbear</td>
-  <td class="xl71" style="width: 271pt;">University
-  of Maine, Tianjin Chengjian University</td>
-  <td class="xl72" style="width: 53pt;">0.43351</td>
- </tr></tbody></table>
+|__Rank__|__Team Name__|__Affiliation__|__Score__|
+|------------------------------------------------|
+|1	      |Hyun Jung 	|Frederick National Laboratory for Cancer Research 	|0.752826
+|2	      |Team MIRL-IITM	|Indian Institute of Technology Madras	|0.633702
+|3	      |Team QuIIL	|Sejong University	|0.633029
+|4	      |Team Damo AIC	|Alibaba	|0.619991
+|5	      |Team COSYPath	|Icahn School of Medicine at Mount Sinai	|0.596908
+|6	      |Team CUHK-Med	|The Chinese University of Hong Kong	|0.588317
+|7	      |Team DAISYlab@UKE	|University Medical Center Hamburg-Eppendorf (UKE)	0.577394
+|8	      |Team Sig-IPath	|12sigma technology	|0.462489
+|9	      |Pingjun Chen	|University of Florida	|0.43939
+|10      |Team Blackbear	|University of Maine, Tianjin Chengjian University	|0.43351
 ***/
    
 
